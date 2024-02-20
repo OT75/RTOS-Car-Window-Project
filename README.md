@@ -43,4 +43,4 @@ To utilize the Power Window Control System:
 - Omar Mohamed Ibrahim Al Sayed
 - Mohamed Hatem Zakaria
 - Ibrahim Ashraf
-- Karin Alber
+
